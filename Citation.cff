@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Protocol for 3D digital dynamic histomorphometry of bone via time-lapse registration of serial microCT scans"
+message: "If you use this code, please cite it as below."
+type: MATLAB script
+authors: Quentin Meslier
+repository-code: https://github.com/QMuentin/3D-digital-dynamic-histomorphometry
+license: MIT
+version: 1.0.0
+date-released: 2026-02-24
