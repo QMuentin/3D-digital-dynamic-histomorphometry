@@ -3,6 +3,7 @@ title: "Protocol for 3D digital dynamic histomorphometry of bone via time-lapse 
 message: "If you use this code, please cite it as below."
 type: MATLAB script
 authors: Quentin Meslier
+DOI: https://doi.org/10.5281/zenodo.19225261
 repository-code: https://github.com/QMuentin/3D-digital-dynamic-histomorphometry
 license: MIT
 version: 1.0.0
